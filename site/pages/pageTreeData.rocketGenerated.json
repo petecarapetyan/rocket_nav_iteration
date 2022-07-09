@@ -1,8 +1,8 @@
 {
   "title": "Rocket",
-  "h1": "Coders Campus Accelerator Options",
-  "name": "Coders Campus Accelerator Options",
-  "menuLinkText": "Coders Campus Accelerator Options",
+  "h1": "Rocket",
+  "name": "Rocket",
+  "menuLinkText": "Rocket",
   "url": "/",
   "outputRelativeFilePath": "index.html",
   "sourceRelativeFilePath": "index.rocket.html",
