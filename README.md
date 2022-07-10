@@ -1,5 +1,7 @@
 # Rocket Starter Kit: Minimal
 
+[ this project starts out as an exact rocket-03-minimal for testing code that would add navigation ]
+
 ```
 npx @rocket/create@latest --template 03-minimal-starter
 ```
