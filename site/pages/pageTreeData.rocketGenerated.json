@@ -10,16 +10,6 @@
   "children": [
     {
       "title": "Rocket",
-      "h1": "About",
-      "name": "About",
-      "menuLinkText": "About",
-      "url": "/about/",
-      "outputRelativeFilePath": "about/index.html",
-      "sourceRelativeFilePath": "about.rocket.js",
-      "level": 1
-    },
-    {
-      "title": "Rocket",
       "h1": "a",
       "headlinesWithId": [
         {
@@ -121,6 +111,40 @@
               "outputRelativeFilePath": "a/a2/a2a/index.html",
               "sourceRelativeFilePath": "a/a2/a2a/index.rocket.md",
               "level": 3
+            },
+            {
+              "title": "Rocket",
+              "h1": "a2b",
+              "headlinesWithId": [
+                {
+                  "text": "a2b",
+                  "id": "a2b",
+                  "level": 1
+                }
+              ],
+              "name": "a2b",
+              "menuLinkText": "a2b",
+              "url": "/a/a2/a2b/",
+              "outputRelativeFilePath": "a/a2/a2b/index.html",
+              "sourceRelativeFilePath": "a/a2/a2b/index.rocket.md",
+              "level": 3
+            },
+            {
+              "title": "Rocket",
+              "h1": "a2c",
+              "headlinesWithId": [
+                {
+                  "text": "a2c",
+                  "id": "a2c",
+                  "level": 1
+                }
+              ],
+              "name": "a2c",
+              "menuLinkText": "a2c",
+              "url": "/a/a2/a2c/",
+              "outputRelativeFilePath": "a/a2/a2c/index.html",
+              "sourceRelativeFilePath": "a/a2/a2c/index.rocket.md",
+              "level": 3
             }
           ]
         },
@@ -139,9 +163,55 @@
           "url": "/a/a3/",
           "outputRelativeFilePath": "a/a3/index.html",
           "sourceRelativeFilePath": "a/a3/index.rocket.md",
-          "level": 2
+          "level": 2,
+          "children": [
+            {
+              "title": "Rocket",
+              "h1": "a3a",
+              "headlinesWithId": [
+                {
+                  "text": "a3a",
+                  "id": "a3a",
+                  "level": 1
+                }
+              ],
+              "name": "a3a",
+              "menuLinkText": "a3a",
+              "url": "/a/a3/a3a/",
+              "outputRelativeFilePath": "a/a3/a3a/index.html",
+              "sourceRelativeFilePath": "a/a3/a3a/index.rocket.md",
+              "level": 3
+            },
+            {
+              "title": "Rocket",
+              "h1": "a3b",
+              "headlinesWithId": [
+                {
+                  "text": "a3b",
+                  "id": "a3b",
+                  "level": 1
+                }
+              ],
+              "name": "a3b",
+              "menuLinkText": "a3b",
+              "url": "/a/a3/a3b/",
+              "outputRelativeFilePath": "a/a3/a3b/index.html",
+              "sourceRelativeFilePath": "a/a3/a3b/index.rocket.md",
+              "level": 3
+            }
+          ]
         }
       ]
+    },
+    {
+      "title": "Rocket",
+      "h1": "About",
+      "name": "About",
+      "menuLinkText": "About",
+      "url": "/about/",
+      "outputRelativeFilePath": "about/index.html",
+      "sourceRelativeFilePath": "about.rocket.js",
+      "level": 1
     },
     {
       "title": "Rocket",
@@ -158,7 +228,26 @@
       "url": "/b/",
       "outputRelativeFilePath": "b/index.html",
       "sourceRelativeFilePath": "b/index.rocket.md",
-      "level": 1
+      "level": 1,
+      "children": [
+        {
+          "title": "Rocket",
+          "h1": "b1",
+          "headlinesWithId": [
+            {
+              "text": "b1",
+              "id": "b1",
+              "level": 1
+            }
+          ],
+          "name": "b1",
+          "menuLinkText": "b1",
+          "url": "/b/b1/",
+          "outputRelativeFilePath": "b/b1/index.html",
+          "sourceRelativeFilePath": "b/b1/index.rocket.md",
+          "level": 2
+        }
+      ]
     }
   ]
 }
