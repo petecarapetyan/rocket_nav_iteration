@@ -1,8 +1,8 @@
 {
   "title": "Rocket",
-  "h1": "Rocket",
-  "name": "Rocket",
-  "menuLinkText": "Rocket",
+  "h1": "rocket-03-minimal",
+  "name": "rocket-03-minimal",
+  "menuLinkText": "rocket-03-minimal",
   "url": "/",
   "outputRelativeFilePath": "index.html",
   "sourceRelativeFilePath": "index.rocket.html",
@@ -248,6 +248,16 @@
           "level": 2
         }
       ]
+    },
+    {
+      "title": "Rocket",
+      "h1": "Menus",
+      "name": "Menus",
+      "menuLinkText": "Menus",
+      "url": "/menu/",
+      "outputRelativeFilePath": "menu/index.html",
+      "sourceRelativeFilePath": "menu.rocket.js",
+      "level": 1
     }
   ]
 }
